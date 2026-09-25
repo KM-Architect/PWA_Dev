@@ -1,0 +1,17 @@
+{
+  "lang": "en-us",
+  "name": "PWA Dev",
+  "short_name": "PWA Dev",
+  "description": "A basic WebMIDI app that plays notes from the computer or connected MIDI keyboard",
+  "start_url": "./",
+  "background_color": "#2f3d58",
+  "theme_color": "#2f3d58",
+  "orientation": "any",
+  "display": "standalone",
+  "icons": [
+      {
+          "src": "./jamit.png",
+          "sizes": "512x512"
+      }
+  ]
+}
